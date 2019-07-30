@@ -1,0 +1,11 @@
+{
+    "name": "Galaxy Nintendo DS Plugin",
+    "platform": "nds",
+    "guid": "81f936fb-39d9-48bc-b2c5-d4d45b80fbd9",
+    "version": "0.1.0",
+    "description": "Nintendo DS platform integration for GOG Galaxy 2.0",
+    "author": "TBemme",
+    "email": "n/a",
+    "url": "https://github.com/TBemme/galaxy-integration-nds",
+    "script": "plugin.py"
+}
