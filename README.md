@@ -3,7 +3,7 @@
 A Nintendo DS platform integration for GOG Galaxy 2.0
 
 ## Features:
-- Add your Nintendo DS games to your Library, with seperate collections for owned and local ("installed") games.
+- Add your Nintendo DS games to your Library, with separate collections for owned and local ("installed") games.
 - Owned games import is based on a text list, which can accommodate the addition of physical games without requiring dumping.
 - Specify a folder for "local games" and path to an emulator, and these games are considered "installed" and can be launched via Galaxy.
 - Support for adding games with multiple entries from more than one region or revision.
