@@ -14,5 +14,5 @@ roms_path = r"REQUIRED_FOR_LOCAL_GAMES"
 # As an example, it could look like this: emu_path = r"G:\My Emulator\myemulator.exe"
 emu_path = r"REQUIRED_FOR_LOCAL_GAMES"
 
-# Pick a username
-username = r"Username"
+# Optional - pick a username, if desired. This is what will be displayed on the Settings Integrations list screen. 
+username = "Username"
